@@ -15,7 +15,7 @@ Sources:
 * https://stackoverflow.com/questions/43178668/record-the-computation-time-for-each-epoch-in-keras-during-model-fit
 * https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff
 * https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
-
+---------------------------------------------------------------------------------------------------------
 * https://machinelearningmastery.com/automate-machine-learning-workflows-pipelines-python-scikit-learn/
 * https://datascience.stackexchange.com/questions/45900/when-to-use-standard-scaler-and-when-normalizer
 * https://towardsdatascience.com/how-and-why-to-standardize-your-data-996926c2c832
@@ -27,3 +27,4 @@ Sources:
 * https://stackoverflow.com/questions/53802098/how-to-choose-the-number-of-components-pca-scikitliear
 * https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c
 * https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html
+---------------------------------------------------------------------------------------------------------
